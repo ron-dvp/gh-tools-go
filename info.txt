@@ -1,0 +1,15 @@
+github: 
+- create repos with simple cmd
+- get all repos
+- set repo as public / private
+- add yamls files to new repos 
+
+env 
+- github token
+
+
+main 
+- authticate
+- listen for arguments
+- http requests 
+
